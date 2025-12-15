@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gta20\\source\\repos\\EventSync Manager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0913E19B-9048-4A1B-8AB8-CEFBEB20CCA7}|EventSync Manager\\EventSync Manager.csproj|c:\\users\\gta20\\source\\repos\\eventsync manager\\eventsync manager\\examples\\usageexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0913E19B-9048-4A1B-8AB8-CEFBEB20CCA7}|EventSync Manager\\EventSync Manager.csproj|solutionrelative:eventsync manager\\examples\\usageexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsageExample.cs",
+              "DocumentMoniker": "C:\\Users\\gta20\\source\\repos\\EventSync Manager\\EventSync Manager\\Examples\\UsageExample.cs",
+              "RelativeDocumentMoniker": "EventSync Manager\\Examples\\UsageExample.cs",
+              "ToolTip": "C:\\Users\\gta20\\source\\repos\\EventSync Manager\\EventSync Manager\\Examples\\UsageExample.cs",
+              "RelativeToolTip": "EventSync Manager\\Examples\\UsageExample.cs",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T16:03:05.915Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

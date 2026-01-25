@@ -3,7 +3,8 @@
 
 # Table of Contents
 1. [Features](#features)
-\nдругие заголовки
+
+другие заголовки
 
 <a name="features"></a>
 # Features

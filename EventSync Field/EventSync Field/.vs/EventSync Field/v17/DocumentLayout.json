@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ForGithub\\PraktikaIAC\\EventSync Field\\EventSync Field\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CCD730D9-E462-4232-B20B-D850AF32CED0}|EventSync Field.csproj|d:\\forgithub\\praktikaiac\\eventsync field\\eventsync field\\registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCD730D9-E462-4232-B20B-D850AF32CED0}|EventSync Field.csproj|solutionrelative:registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCD730D9-E462-4232-B20B-D850AF32CED0}|EventSync Field.csproj|D:\\ForGithub\\PraktikaIAC\\EventSync Field\\EventSync Field\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCD730D9-E462-4232-B20B-D850AF32CED0}|EventSync Field.csproj|solutionrelative:loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCD730D9-E462-4232-B20B-D850AF32CED0}|EventSync Field.csproj|D:\\ForGithub\\PraktikaIAC\\EventSync Field\\EventSync Field\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCD730D9-E462-4232-B20B-D850AF32CED0}|EventSync Field.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCD730D9-E462-4232-B20B-D850AF32CED0}|EventSync Field.csproj|D:\\ForGithub\\PraktikaIAC\\EventSync Field\\EventSync Field\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCD730D9-E462-4232-B20B-D850AF32CED0}|EventSync Field.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "D:\\ForGithub\\PraktikaIAC\\EventSync Field\\EventSync Field\\LoginForm.cs",
+              "RelativeDocumentMoniker": "LoginForm.cs",
+              "ToolTip": "D:\\ForGithub\\PraktikaIAC\\EventSync Field\\EventSync Field\\LoginForm.cs",
+              "RelativeToolTip": "LoginForm.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAUwEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T16:07:52.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegistrationForm.cs",
+              "DocumentMoniker": "D:\\ForGithub\\PraktikaIAC\\EventSync Field\\EventSync Field\\RegistrationForm.cs",
+              "RelativeDocumentMoniker": "RegistrationForm.cs",
+              "ToolTip": "D:\\ForGithub\\PraktikaIAC\\EventSync Field\\EventSync Field\\RegistrationForm.cs",
+              "RelativeToolTip": "RegistrationForm.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAUwFsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T16:06:43.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\ForGithub\\PraktikaIAC\\EventSync Field\\EventSync Field\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "D:\\ForGithub\\PraktikaIAC\\EventSync Field\\EventSync Field\\MainForm.cs",
+              "RelativeToolTip": "MainForm.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAUwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T15:59:16.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ForGithub\\PraktikaIAC\\EventSync Field\\EventSync Field\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\ForGithub\\PraktikaIAC\\EventSync Field\\EventSync Field\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T15:59:10.126Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
